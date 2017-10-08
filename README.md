@@ -9,9 +9,27 @@ it is intended for unifying all the people around (even 7 seas apart ) to provid
 
 this app is real-time multiplayer platform and is integrated with facebook much alike the famous, 8-ball pool game.
 if n number of players are playing at a given instance,
-each 1 of them will receive phychologic remarks such as :-
+each 1 of them will receive phychologic remarks n tricks such as :-
 
 1. 5m 4m 3m 1m to beat {player name}
 2. congratulations on crossing over
 3. {player name} is walking and got his/her points reduced by {count}  ;P
 
+
+there will be a showcase of certain tracks to choose from and
+each'll have some different kind of challenege: 
+
+1. basis on number of jumps one has to perform in between to score more points
+2. runnning speed consistency
+3. beating maximum speed with sprint
+4. more to be added.....
+
+
+after selection of track from main menu, one can send invites through facebook n check if the opponent is online or not otherwise notification will be sent.
+
+once the opponent clicks on __accept__ , the game starts when both the players are __ready__ 
+
+
+
+
+*__* it is meant to be used with earphones with considerable volume though obviously haha..__
