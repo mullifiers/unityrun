@@ -37,4 +37,4 @@ once the opponent clicks on __accept__ , the game starts when both the players a
 
 
 
-__** it is meant to be used with earphones with considerable volume though obviously haha..__
+__** it is meant to be used with earphones with considerable volume though obviously XD__
