@@ -32,4 +32,9 @@ once the opponent clicks on __accept__ , the game starts when both the players a
 
 
 
-*__* it is meant to be used with earphones with considerable volume though obviously haha..__
+In second iteration of the software (may be not in current semester), we also intend to implement a feature request ie. concept of virtul __AI__  based players with difficulty selection available, also aided with some recommendations according to height and weight ratio of the user.
+The scenerio shall seem like a real person playing as an opponent by having humanly variations of speed and even stats like heart beats per minute , if the hardware allows (have sensors for the same)
+
+
+
+__** it is meant to be used with earphones with considerable volume though obviously haha..__
