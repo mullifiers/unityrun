@@ -13,5 +13,5 @@ each 1 of them will receive phychologic remarks such as :-
 
 1. 5m 4m 3m 1m to beat {player name}
 2. congratulations on crossing over
-3. {player name} is walking and got his/her points reduced by {count} 
+3. {player name} is walking and got his/her points reduced by {count}  ;P
 
