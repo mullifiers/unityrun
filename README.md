@@ -1,4 +1,4 @@
-# unityrun
+[logo]: https://github.com/mullifiers/unityrun/blob/master/logo_unityrun.svg # unityrun
 
 *cross-platform app 
 *unity build
