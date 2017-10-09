@@ -1,4 +1,4 @@
-[logo]: https://github.com/mullifiers/unityrun/blob/master/logo_unityrun.svg # unityrun
+# unityrun
 
 *cross-platform app 
 *unity build
@@ -38,3 +38,6 @@ The scenerio shall seem like a real person playing as an opponent by having huma
 
 
 __** it is meant to be used with earphones with considerable volume though obviously XD__
+
+
+![logo](https://github.com/mullifiers/unityrun/blob/master/logo_unityrun.svg) 
