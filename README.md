@@ -1,9 +1,9 @@
 # unityrun
 
-*cross-platform app 
-*unity build
+*cross-platform app *
+*unity build*
 
-*an abstract from Parneet's Dream, we watched together...
+*an abstract from Parneet's Dream, we watched together...*
 >should have implemented it before in SE, regrets wasn't able to try my lvl best in winning that argument against sir
 
 
